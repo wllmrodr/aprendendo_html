@@ -2,7 +2,7 @@ html, body {
     margin: 0;
 }
 body {
-    background-color: #f1f1f1;
+    background-color: rgba(255, 255, 255, 0.966);
     display: flex;
     justify-content: center;
 }
@@ -11,7 +11,7 @@ body {
     width: 1200px;
     display: flex;
     margin: 0 auto;
-    background-color: aquamarine;
+    background-color: rgb(26, 170, 33);
 }
 .main {
     display: flex;
@@ -20,11 +20,11 @@ body {
 }
 .menu {
     width: 15%;
-    background-color: aqua;
+    background-color: rgb(70, 158, 89);
     padding: 10px 20px 0px;
 }
 .header {
-    background-color: rgb(5, 108, 108);
+    background-color: rgb(255, 255, 255);
     min-height: 150px;
 }
 .content {
@@ -33,6 +33,15 @@ body {
     padding: 20px;
 }
 .footer {
-    background-color: rgb(99, 56, 240);
+    background-color: rgb(219, 219, 219);
     min-height: 150px;
+}
+
+.titulo-menu {
+    color: rgb(253, 253, 253); /* Aqui você pode definir a cor desejada */
+}
+
+.imagem{
+
+    vertical-align: middle;
 }
