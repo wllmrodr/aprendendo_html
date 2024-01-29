@@ -11,7 +11,7 @@ body {
     width: 1200px;
     display: flex;
     margin: 0 auto;
-    background-color: rgb(26, 170, 33);
+    background-color: rgb(6, 68, 9);
 }
 .main {
     display: flex;
@@ -24,11 +24,11 @@ body {
     padding: 10px 20px 0px;
 }
 .header {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(245, 245, 245);
     min-height: 150px;
 }
 .content {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     min-height: 300px;
     padding: 20px;
 }
@@ -38,7 +38,11 @@ body {
 }
 
 .titulo-menu {
-    color: rgb(253, 253, 253); /* Aqui você pode definir a cor desejada */
+    color: rgb(14, 58, 12); /* Aqui você pode definir a cor desejada */
+}
+
+.titulo-principal {
+    color:rgb(70, 158, 89);; /* Aqui você pode definir a cor desejada */
 }
 
 .imagem{
