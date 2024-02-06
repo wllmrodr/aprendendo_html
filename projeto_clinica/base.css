@@ -38,7 +38,8 @@ body {
 }
 
 .titulo-menu {
-    color: rgb(14, 58, 12); /* Aqui você pode definir a cor desejada */
+    color: rgb(14, 58, 12);
+    text-decoration: none; /* Aqui você pode definir a cor desejada */
 }
 
 .titulo-principal {
@@ -52,4 +53,9 @@ body {
 
 .blockquote {
     text-align: center;
+}
+
+.itens-menu {
+
+    text-decoration: none; /* Aqui você pode definir a cor desejada */
 }
