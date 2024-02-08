@@ -33,6 +33,10 @@ a { color:blue; text-decoration: none;}
 .sidebar {
     border-right: solid 1px #cdcdcd;
 }
-figure {
+.figure {
     text-align: center;
+}
+
+.titulos_menores{
+    color:rgb(0, 137, 228);
 }
